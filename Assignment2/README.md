@@ -9,3 +9,6 @@
 2. checks if open behaviour is same as linux.  _matches with linux_
 
 3. Tests pipe - contributed by Snehal Raj.
+
+4. Tests open on creating a file and using it again - contributed by Snehal Raj.
+   _interesting test case_
